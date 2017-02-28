@@ -1,0 +1,11 @@
+{
+  "name": "room11/lxr-admin-ui",
+  "description": "Admin front-end for room11 lxr",
+  "minimum-stability": "stable",
+  "license": "mit",
+  "autoload": {
+    "psr-4": {
+      "Room11\\Lxr\\Admin\\Ui\\": "src/"
+    }
+  }
+}
